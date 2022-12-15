@@ -35,7 +35,5 @@ So, with a simple to-do-list app, we can achieve all the `CRUD` operations.
 2. Follow the video given below - in order to get an idea of how the app should work. 
    **Note:** This lab is not focussing much on the styling part -- but feel free to add styles to your project.
    If you want - you can even mimic the design shown in the given video as well.
-
- 
-
+[](https://s3.ap-south-1.amazonaws.com/kalvi-education.github.io/front-end-web-development/Demo+for+the+lab.mov)
 
