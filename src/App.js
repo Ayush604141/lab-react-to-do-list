@@ -16,6 +16,7 @@ export default class App extends Component{
     this.handleSubmit = this.handleSubmit.bind(this);
     this.handleInput = this.handleInput.bind(this);
     this.handleDelete = this.handleDelete.bind(this);
+    this.handleUpdate = this.handleUpdate.bind(this);
     // this.display = this.display.bind(this);
   };
 
