@@ -39,5 +39,6 @@ So, with a simple to-do-list app, we can achieve all the `CRUD` operations.
 
 [ <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/52f4b4c42a9f4f7c8e68b1c5f75f2798-with-play.gif">](https://www.loom.com/share/52f4b4c42a9f4f7c8e68b1c5f75f2798)
 
+You can also download this video by [clicking here](https://s3.ap-south-1.amazonaws.com/kalvi-education.github.io/front-end-web-development/Demo+for+the+lab.mov)
 
 
