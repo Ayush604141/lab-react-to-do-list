@@ -36,7 +36,6 @@ So, with a simple to-do-list app, we can achieve all the `CRUD` operations.
    **Note:** This lab is not focussing much on the styling part -- but feel free to add styles to your project.
    If you want - you can even mimic the design shown in the given video as well.
    
-[Video Link](https://s3.ap-south-1.amazonaws.com/kalvi-education.github.io/front-end-web-development/Demo+for+the+lab.mov)
+Loom | Free Screen & Video Recording Software | Loom - 15 December 2022 - Watch Video
 
 
-<div style="position: relative; padding-bottom: 64.98194945848375%; height: 0;"><iframe src="https://www.loom.com/embed/52f4b4c42a9f4f7c8e68b1c5f75f2798" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
